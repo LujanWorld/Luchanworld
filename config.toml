@@ -1,4 +1,5 @@
-baseURL                   = "https://luchanworld.com"
+# baseURL                   = "https://luchanworld.com"
+baseURL                   = "https://jovial-pare-3fc1e9.netlify.com"
 builddrafts                = false
 languageCode               = "en-us"
 canonifyurls               = true
