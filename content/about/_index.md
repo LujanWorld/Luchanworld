@@ -48,3 +48,20 @@ After these wonderful moments we decided to travel and share our lives together.
 
 
 > "The root of suffering is attachment". Buddha
+
+#### Get in Touch
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" placeholder="your name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email"  placeholder="email@example.com"   /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
