@@ -2,23 +2,51 @@
 date = "2015-08-19T20:29:37-07:00"
 draft = false
 title = "Moment"
+img = "content/moment/cleansea.jpg"
 
 +++
 
 
 
-## International yoga day
+## Sustainable Travel 
 
-#### The ultimate global yoga project
+#### Reducing Your Vacation’s Impact Is Easier Than You Think
 
-The inaugural IYD happened on June 21, 2015, a few months after it was proposed at a United Nations General Assembly by then new prime minister of India, Narendra Modi. It was supported by 177 nations, the highest number for any UNGA resolution, and went through without needing a vote. Most of the world, apparently, loves yoga, and the countries seemed happy to officially celebrate the practice on a designated day. (Notable other official world recognition: in 2016, yoga was added to Unesco’s “intangible world heritage” list.)
+Pack light: Less luggage means a reduction in carbon emissions released into the atmosphere by your plane. Whilst it might not compensate for the flight itself, it can help!
 
-When he introduced the event in September 2014, Modi said of the practice: “Yoga is an invaluable gift of India’s ancient tradition. It embodies unity of mind and body; thought and action; restraint and fulfillment; harmony between man and nature; a holistic approach to health and well-being. It is not about exercise but to discover the sense of oneness with yourself, the world and the nature. **By changing our lifestyle and creating consciousness, it can help us deal with climate change**.”
+Protect the environment 
+Bring a reusable utensil sets, a refillable water bottle and a water filter so you don’t have to waste plastic. Besides, it’s cheaper too.
 
-If you’re one of those people who loves yoga and celebrating days, then IYD is perfect for you. You may want to shake up how you participate. Check out what’s happening in your area and commit to attending an event organized by the South Asian community, rather than your local yoga studio. While you’re there, make an effort to talk to people about their practice and life. You could also try a different aspect of the practice – rather than asana, seek out chanting or meditation, or explore a devotional, lineage-based practice.
+Minimise single-use plastic altogether: Ditch the single use plastic miniatures by switching to solid shampoo and conditioner, solid soap, bamboo toothbrush, bamboo comb and toothpaste tablets. 
+
+Choose the most environmentally friendly form of transport. Can you drive or take the train to your destination instead of flying? 
+Try to especially avoid short haul (< 500 km) flights, and if you must fly, choose airlines with higher occupancy rates and more efficient aircraft.
+
+Minimize your carbon emissions and pollution: try to book direct flights and keep domestic flights at a minimum
+
+Support the local economy 
+Stay with locals for an authentic experience - find a homestay or AirBnB
+
+When possible, support family-owned local businesses that employ local people rather than large international companies
+
+Hire a local guide! After all, they know their home country better than anyone
+
+Visit fair-trade plantations such as coffee, tea, or chocolate!
+
+Travel during the off-season: cyclical vacation trends make it difficult for locals to subsist on sporadic incomes. Besides, it’s cheaper and less crowded!.
+ **By changing our lifestyle and creating consciousness, it can help us deal with climate change**.”
+
+
+Visit national parks - your entry fees contribute to preserving nature
+
+
+Ensure that tour companies have good animal treatment practices - especially if the tour involves interacting with animals 
+
+ Recycle and reduce. Recycle newspapers, magazines and your beverage containers (many can be returned for refunds), and reduce the number of bags, napkins and disposable cups you use when you eat fast food.
+
+
 
 > “The past is already gone, the future is not yet here. There’s only one moment for you to live.”
 
-[International Yoga Day](https://www.google.com)
+[Travelsustainable](https://sustainabletourism.net/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wkGt7a7uJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
