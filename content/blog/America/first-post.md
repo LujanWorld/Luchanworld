@@ -1,5 +1,5 @@
 ---
-title: "Begin"
+title: "Beginning"
 date: 2019-03-07T12:53:37+08:00
 draft: false
 tags: ["Home", "blog", "about"]
@@ -10,7 +10,6 @@ toc: true
 summary: "Try to be the best version of yourself every day "
 ---
 
-
 I believe that adventure travel is anything that gets you out of your comfort zone, and makes you feel alive.
 
 There are no limits to what you can and can’t do on the road. Life’s too short to live in a bubble. Step out of your comfort zone.
@@ -19,10 +18,10 @@ Whether it’s crossing borders for love, forming bonds that transcend boundarie
 
 ## Fly high
 
-The concepts of the world about traveling as a  solo woman never crossed my mind. I knew that I wanted a real change, and for that, traveling was the best option.
+The concepts of the world about traveling as a solo woman never crossed my mind. I knew that I wanted a real change, and for that, traveling was the best option.
 Risk to the unexpected, to the unknown gives you adrenaline, at first, and then you face the reality that you are on the other side of the world, without friends without family, and the only thing you have is you and your immense skills.
 
-> "All that we are is the result of what we have thought". Buddha 
+> "All that we are is the result of what we have thought". Buddha
 
 ### Caribbean home
 
@@ -34,14 +33,11 @@ This place has been magical since the beginning, when we met incredible people, 
 Everything that I have lived has marked and changed me profoundly, and I found the most beautiful thing in this world: Love.
 I believe that love is the most important force, that it moves everything and transforms it for the better. That's what I found after deciding to give up everything and travel.
 
-> "How much of what you do is driven by your passion?  Living from the courage and valiant, allows you to cross the limits to reach your only desire, inhabit the desire that take you to devastate everything to be there ... the other side. Embraced with your achievements and celebrating. is everything you deserve, live from your purpose, from your power, which makes you unique and immense".
+> "How much of what you do is driven by your passion? Living from the courage and valiant, allows you to cross the limits to reach your only desire, inhabit the desire that take you to devastate everything to be there ... the other side. Embraced with your achievements and celebrating. is everything you deserve, live from your purpose, from your power, which makes you unique and immense".
 
-Maybe love will not change the world, but it will surely change us and then we will be that reflection. To stop thinking only about ourselves, to be selfish and open ourselves to the world, to let go of everything, and let go of everything we have been and leave it in the past and start a new, improved version. 
+Maybe love will not change the world, but it will surely change us and then we will be that reflection. To stop thinking only about ourselves, to be selfish and open ourselves to the world, to let go of everything, and let go of everything we have been and leave it in the past and start a new, improved version.
 Because every day we have that option, it's just a personal decision, nobody can do it for you.
- 
- **So, what are you waiting for?**
 
-
-
+**So, what are you waiting for?**
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/g0Q2ZKENnZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
