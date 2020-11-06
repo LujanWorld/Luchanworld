@@ -21,7 +21,8 @@ Honor is a very important concept in Thai culture, that's why you never see them
 The greeting or reverence they perform by joining hands is called wai
 It is impolite to touch a person's head or point to something or someone with their feet. It is an insult to step on the food or pass over a person who is sitting or lying on the floor. Nor is it well seen to put your feet on the chair, these should always be on the floor. Do not point your feet towards the Buddha image and you always have to take off your shoes when entering a house or temple
 Thai cuisine mixes five flavors: sweet, spicy, sour, bitter and salty. The basic food is rice, which is in almost all meals. And it's so but so rich that I'm afraid to go rolling again!
- 
+
+
 
 It is illegal to step on bills or coins as they have the image of the king
 Thailand is a very open and tolerant country with respect to homosexuality. Bangkok is one of the most gay friendly cities in the world, but on the other hand gays can not study to be teachers or join the army
@@ -43,4 +44,5 @@ From what I've seen so far, Thais eat at all times ... Today I went for a walk a
 In Thailand there are more than 5000 (yes, five thousand) 7-Eleven (an American chain that sells food, candy, cookies, pharmacy items ... something like a "mini super" or a large kiosk with a lot of air conditioning
 
 > "Give, even if you only have a little". Buddha
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wkGt7a7uJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

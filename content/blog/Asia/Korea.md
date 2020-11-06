@@ -4,7 +4,7 @@ date: 2019-03-27T11:02:00+07:00
 tags: ["Home", "blog"]
 series: ["Moment"]
 categories: ["America", "Europe", "Asia"]
-img: "blog/Asia/thai.jpg"
+img: "blog/Asia/Korea.jpeg"
 toc: true
 summary: "Try to be the best version of yourself every day "
 ---
@@ -34,4 +34,4 @@ Bukchon Hanok Village is a Korean traditional village in Seoul with a long histo
 
 > "Life is not a mystery to be solved but a miracle to be experienced " - Alan Watts
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HLgsHeQ4IC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HLgsHeQ4IC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
