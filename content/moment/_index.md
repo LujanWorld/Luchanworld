@@ -1,52 +1,41 @@
 +++
 date = "2015-08-19T20:29:37-07:00"
 draft = false
-title = "Moment"
+title = "Mindfulness"
 img = "content/moment/cleansea.jpg"
 
 +++
 
+## Mindfulness life
 
+Mindfulness is the basic human ability to be fully present, aware of where we are and what we’re doing, and not overly reactive or overwhelmed by what’s going on around us.
 
-## Sustainable Travel 
+Mindfulness is a quality that every human being already possesses, it’s not something you have to conjure up, you just have to learn how to access it.
 
-#### Reducing Your Vacation’s Impact Is Easier Than You Think
+#### The Types of Mindfulness Practice
 
-Pack light: Less luggage means a reduction in carbon emissions released into the atmosphere by your plane. Whilst it might not compensate for the flight itself, it can help!
+While mindfulness is innate, it can be cultivated through proven techniques. Here are some examples:
 
-Protect the environment 
-Bring a reusable utensil sets, a refillable water bottle and a water filter so you don’t have to waste plastic. Besides, it’s cheaper too.
+Seated, walking, standing, and moving meditation (it’s also possible lying down but often leads to sleep);
+Short pauses we insert into everyday life;
+Merging meditation practice with other activities, such as yoga or sports.
 
-Minimise single-use plastic altogether: Ditch the single use plastic miniatures by switching to solid shampoo and conditioner, solid soap, bamboo toothbrush, bamboo comb and toothpaste tablets. 
+#### The Benefits of Mindfulness Practice:
 
-Choose the most environmentally friendly form of transport. Can you drive or take the train to your destination instead of flying? 
-Try to especially avoid short haul (< 500 km) flights, and if you must fly, choose airlines with higher occupancy rates and more efficient aircraft.
+When we meditate it doesn’t help to fixate on the benefits, but rather to just do the practice, and yet there are benefits or no one would do it.
 
-Minimize your carbon emissions and pollution: try to book direct flights and keep domestic flights at a minimum
+When we’re mindful, we reduce stress, enhance performance, gain insight and awareness through observing our own mind, and increase our attention to others’ well-being.
 
-Support the local economy 
-Stay with locals for an authentic experience - find a homestay or AirBnB
+Mindfulness meditation gives us a time in our lives when we can suspend judgment and unleash our natural curiosity about the workings of the mind, approaching our experience with warmth and kindness—to ourselves and others.
 
-When possible, support family-owned local businesses that employ local people rather than large international companies
-
-Hire a local guide! After all, they know their home country better than anyone
-
-Visit fair-trade plantations such as coffee, tea, or chocolate!
-
-Travel during the off-season: cyclical vacation trends make it difficult for locals to subsist on sporadic incomes. Besides, it’s cheaper and less crowded!.
- **By changing our lifestyle and creating consciousness, it can help us deal with climate change**.”
-
+**.**.”
 
 Visit national parks - your entry fees contribute to preserving nature
 
+Ensure that tour companies have good animal treatment practices - especially if the tour involves interacting with animals
 
-Ensure that tour companies have good animal treatment practices - especially if the tour involves interacting with animals 
+Recycle and reduce. Recycle newspapers, magazines and your beverage containers (many can be returned for refunds), and reduce the number of bags, napkins and disposable cups you use when you eat fast food.
 
- Recycle and reduce. Recycle newspapers, magazines and your beverage containers (many can be returned for refunds), and reduce the number of bags, napkins and disposable cups you use when you eat fast food.
+> “Mindfulness means being awake. It means knowing what you are doing”
 
-
-
-> “The past is already gone, the future is not yet here. There’s only one moment for you to live.”
-
-[Travelsustainable](https://sustainabletourism.net/)
-
+[MeditateWhithMe](https://insighttimer.com/luz)
