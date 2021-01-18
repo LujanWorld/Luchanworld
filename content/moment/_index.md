@@ -1,10 +1,9 @@
-+++
+---
 date = "2015-08-19T20:29:37-07:00"
 draft = false
 title = "Mindfulness"
 img = "content/moment/cleansea.jpg"
-
-+++
+---
 
 ## Mindfulness life
 
@@ -27,14 +26,6 @@ When we meditate it doesn’t help to fixate on the benefits, but rather to just
 When we’re mindful, we reduce stress, enhance performance, gain insight and awareness through observing our own mind, and increase our attention to others’ well-being.
 
 Mindfulness meditation gives us a time in our lives when we can suspend judgment and unleash our natural curiosity about the workings of the mind, approaching our experience with warmth and kindness—to ourselves and others.
-
-**.**.”
-
-Visit national parks - your entry fees contribute to preserving nature
-
-Ensure that tour companies have good animal treatment practices - especially if the tour involves interacting with animals
-
-Recycle and reduce. Recycle newspapers, magazines and your beverage containers (many can be returned for refunds), and reduce the number of bags, napkins and disposable cups you use when you eat fast food.
 
 > “Mindfulness means being awake. It means knowing what you are doing”
 
