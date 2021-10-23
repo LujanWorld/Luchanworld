@@ -30,3 +30,5 @@ Mindfulness meditation gives us a time in our lives when we can suspend judgment
 > “Mindfulness means being awake. It means knowing what you are doing”
 
 [MeditateWhithMe](https://insighttimer.com/luz)
+[Youtube](https://www.youtube.com/channel/UCWKQPHubPo5ECvTiDQ_GqjQ)
+[Instagram](https://www.instagram.com/meditaworld)
